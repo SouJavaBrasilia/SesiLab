@@ -244,3 +244,21 @@ O **SouJava Junior existe para que os juniores cresçam técnica e profissionalm
 - **Backlog técnico:** detalhamento colaborativo com Leonardo Segala e demais participantes, sem presumir responsáveis ou prazos não combinados.
 
 📚 **Documentação complementar:** [Arquitetura](docs/ARQUITETURA.md) · [Reunião de 13/10](docs/REUNIAO-2026-10-13.md) · [Design System e Storybook](docs/DESIGN-SYSTEM.md)
+
+---
+
+## 🌱 Crescimento dos juniores: nosso propósito
+
+O **SouJava Junior existe para que os juniores cresçam técnica e profissionalmente**. O desenvolvimento do sistema de estoque do SESI Lab é um meio para aprender fazendo, assumir pequenas entregas, receber mentoria, participar de revisões e desenvolver autonomia. A iniciativa é **voluntária e não remunerada**.
+
+## 🧱 Diretrizes técnicas da reunião de 13/10/2026
+
+- **Arquitetura inicial:** monólito modular, com limites dos módulos ainda a definir.
+- **Backend:** Java; **frontend:** Angular.
+- **DDD:** não será imposto como requisito inicial, evitando complexidade excessiva para iniciantes.
+- **BFF:** termo mencionado na reunião; a responsabilidade dessa possível camada ainda precisa ser esclarecida.
+- **Prototipação:** livre escolha entre **Figma, Penpot ou outra ferramenta**, desde que o trabalho possa ser compartilhado e revisado.
+- **Design System e Storybook:** propostas para avaliação, **não decisões obrigatórias**.
+- **Backlog técnico:** detalhamento colaborativo com Leonardo Segala e demais participantes, sem presumir responsáveis ou prazos não combinados.
+
+📚 **Documentação complementar:** [Arquitetura](docs/ARQUITETURA.md) · [Reunião de 13/10](docs/REUNIAO-2026-10-13.md) · [Design System e Storybook](docs/DESIGN-SYSTEM.md)
