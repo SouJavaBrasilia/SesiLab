@@ -1,18 +1,27 @@
-# Design System e Storybook — proposta em avaliação
+# 🎨 UX/UI e consistência visual
 
-> **Status: proposta levantada na reunião, ainda não aprovada como obrigatória.**
+O design faz parte do processo de construção do sistema de estoque do SESI Lab. A proposta é criar interfaces claras, acessíveis e consistentes, oferecendo aos participantes experiência prática em pesquisa de fluxos, prototipação e colaboração com desenvolvedores.
 
-Foi sugerido definir uma base visual consistente — tipografia, cores, espaçamentos, componentes, estados e acessibilidade — e avaliar o **Storybook** para documentar e testar componentes da interface.
+## Ferramentas
 
-## Prototipação
+**A escolha da ferramenta é livre.** Podem ser utilizados **Figma, Penpot ou outro recurso** adequado ao trabalho, desde que os materiais sejam compartilháveis e revisáveis.
 
-Os voluntários podem escolher **Figma, Penpot ou outra ferramenta**, desde que os artefatos sejam compartilháveis e revisáveis.
+## Fluxo de prototipação
 
-## Caminho sugerido
+1. Compreender os perfis de usuário e suas necessidades.
+2. Desenhar jornadas e wireframes dos fluxos prioritários.
+3. Prototipar login, navegação, dashboard, itens e movimentações.
+4. Compartilhar links e apresentar as decisões visuais à equipe.
+5. Incorporar feedback das revisões e validações.
 
-1. Mapear jornadas e desenhar os primeiros wireframes do MVP.
-2. Apresentar uma primeira versão à equipe para revisão.
-3. Identificar padrões e componentes reutilizáveis.
-4. Avaliar o custo-benefício de um Design System e Storybook antes de adotá-los.
+## Padrões visuais e componentes
 
-A prioridade é criar oportunidades para os juniores aprenderem com mentoria, não acrescentar ferramentas sem necessidade.
+Ao longo do desenvolvimento, vale buscar consistência em **tipografia, cores, espaçamentos, estados de interação, acessibilidade e componentes reutilizáveis**.
+
+**Design System e Storybook** são referências que a equipe poderá explorar para organizar e documentar componentes, conforme a evolução do projeto. Não são pré-requisitos para começar a contribuir.
+
+## Entrega e colaboração
+
+Registre o link do protótipo na issue correspondente e indique quais telas ou fluxos estão contemplados. As revisões são momentos de troca de conhecimento e mentoria.
+
+[← Índice da documentação](README.md)
