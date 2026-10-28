@@ -4,7 +4,7 @@ O design faz parte do processo de construção do sistema de estoque do SESI Lab
 
 ## Ferramentas
 
-**A escolha da ferramenta é livre.** Podem ser utilizados **Figma, Penpot ou outro recurso** adequado ao trabalho, desde que os materiais sejam compartilháveis e revisáveis.
+A ferramenta oficial para prototipação é o **Penpot**, utilizando **MCP** para integrar com a sua ferramenta de IA favorita, garantindo um fluxo colaborativo onde todos os materiais sejam facilmente compartilháveis e revisáveis.
 
 ## Fluxo de prototipação
 
@@ -16,7 +16,7 @@ O design faz parte do processo de construção do sistema de estoque do SESI Lab
 
 ## Padrões visuais e componentes
 
-Ao longo do desenvolvimento, vale buscar consistência em **tipografia, cores, espaçamentos, estados de interação, acessibilidade e componentes reutilizáveis**.
+O padrão visual do sistema deve seguir as diretrizes de identidade e a linguagem visual do site do [SESI Lab](https://sesilab.com.br/), garantindo consistência em **tipografia, cores, espaçamentos, estados de interação, acessibilidade e componentes reutilizáveis**.
 
 **Design System e Storybook** são referências que a equipe poderá explorar para organizar e documentar componentes, conforme a evolução do projeto. Não são pré-requisitos para começar a contribuir.
 
