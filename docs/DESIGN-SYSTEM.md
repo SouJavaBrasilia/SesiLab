@@ -22,6 +22,18 @@ O padrão visual do sistema deve seguir as diretrizes de identidade e a linguage
 
 ## Entrega e colaboração
 
-Registre o link do protótipo na issue correspondente e indique quais telas ou fluxos estão contemplados. As revisões são momentos de troca de conhecimento e mentoria.
+Sempre que iniciar e finalizar uma tarefa, salve a versão no Penpot informando a data e o número da issue correspondente do GitHub. Todos os protótipos e telas devem ser criados em uma única página dentro do Penpot.
+
+Registre na issue a versão salva, o link do protótipo e indique quais telas ou fluxos estão contemplados. As entregas e revisões devem ser registradas na mesma página utilizando o formato STAR:
+
+Situação: Contextualize o problema ou cenário inicial do projeto.
+
+Tarefa: Liste o objetivo específico e o que precisava ser desenvolvido.
+
+Ação: Detalhe os passos executados, alterações feitas e protótipos criados no Penpot.
+
+Resultado: Descreva as entregas finalizadas, fluxos validados e aprendizados obtidos.
+
+As revisões são momentos de troca de conhecimento e mentoria.
 
 [← Índice da documentação](README.md)
